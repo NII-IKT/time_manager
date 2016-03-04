@@ -31,3 +31,66 @@ E:\workspace\basicShiff\WPFTimeManager\WPFTimeManager\WPFTimeManager\obj\Release
 E:\workspace\basicShiff\WPFTimeManager\WPFTimeManager\WPFTimeManager\obj\Release\WindowChangeIdleTime.g.cs
 E:\workspace\basicShiff\WPFTimeManager\WPFTimeManager\WPFTimeManager\obj\Release\WindowChangeIdleTime.baml
 E:\workspace\basicShiff\WPFTimeManager\WPFTimeManager\WPFTimeManager\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\NLog.config
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\WPFTimeManager.exe.config
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\WPFTimeManager.exe
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\WPFTimeManager.pdb
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\Ionic.Zip.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\NDde.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\NLog.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\PresentationFramework.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\WPFToolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\NLog.xml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\MainWindow.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowChangeIdleTime.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowChangePass.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowPassword.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\App.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager_MarkupCompile.cache
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager_MarkupCompile.lref
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\MainWindow.baml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowChangeIdleTime.baml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowChangePass.baml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\Windows\WindowPassword.baml
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.g.resources
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.Properties.Resources.resources
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.csproj.GenerateResource.Cache
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.exe
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.pdb
+D:\Работа\НИИ ИКТ\Новая папка\source\WPFTimeManager\obj\Release\WPFTimeManager.csprojResolveAssemblyReference.cache
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\NLog.config
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\WPFTimeManager.exe.config
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\WPFTimeManager.exe
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\WPFTimeManager.pdb
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\Ionic.Zip.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\NDde.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\NLog.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\PresentationFramework.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\WPFToolkit.dll
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\NLog.xml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\MainWindow.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowChangeIdleTime.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowChangePass.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowPassword.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\App.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager_MarkupCompile.cache
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager_MarkupCompile.lref
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\MainWindow.baml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowChangeIdleTime.baml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowChangePass.baml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\Windows\WindowPassword.baml
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager.g.resources
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager.Properties.Resources.resources
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager.csproj.GenerateResource.Cache
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager.exe
+D:\Работа\НИИ ИКТ\Новая папка\Cool Version\Source\WPFTimeManager\obj\Release\WPFTimeManager.pdb

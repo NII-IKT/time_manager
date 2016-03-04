@@ -114,6 +114,11 @@ namespace WPFTimeManager
                 dateList.Add(DateTime.Today);
                 UpdateGraph();
                 DataGridUpdate();
+
+                //для того чтобы окна не было видно TODO start
+                this.Visibility = Visibility.Hidden;
+                this.IsEnabled = false; 
+
             }
             catch (Exception ex)
             {
@@ -142,14 +147,24 @@ namespace WPFTimeManager
 
         private void onOpen(Object o, EventArgs e) //При нажатии CTRL+F11
         {
-            if (IsVisible == true)
+            if (IsVisible == true) //TODO hide-show
             {
                 logger.Info("window:hide");
                 //this.Hide();
                 this.Visibility = Visibility.Hidden;
-                this.IsEnabled = false;
+                this.IsEnabled = false;               
             }
-            else { logger.Info("window:open"); this.IsEnabled = true; this.Visibility = Visibility.Visible; DataGridUpdate(); }
+            else
+            { 
+                logger.Info("window:open");
+                this.IsEnabled = true; 
+                this.Visibility = Visibility.Visible;
+                DataGridUpdate();
+
+                //актириуем его
+                this.Show();
+                this.Activate();
+            }
 
             globalKeyboardHook.unhook();
             globalKeyboardHook.hook();
